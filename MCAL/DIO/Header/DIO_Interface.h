@@ -2,7 +2,7 @@
  * DIO_Interface.h
  *
  *  Created on: Jul 17, 2025
- *      Author: toham
+ *      Author: tohami
  */
 
 #ifndef MCAL_DIO_HEADER_DIO_INTERFACE_H_
@@ -30,3 +30,4 @@ u8   DIO_ReadInputValueforPin (u8 GroupName,u8 PinNumber);
 
 
 #endif /* MCAL_DIO_HEADER_DIO_INTERFACE_H_ */
+
