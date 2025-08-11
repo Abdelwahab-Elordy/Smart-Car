@@ -2,7 +2,7 @@
  * MDR_Interface.h
  *
  *  Created on: Aug 4, 2025
- *      Author: toham
+ *      Author: tohami
  */
 
 #ifndef HAL_MOTORDR_HDR_MDR_INTERFACE_H_
@@ -16,3 +16,4 @@ void Car_Right(void);
 void Car_Stop(void);
 void MDR_SetSpeed(u8 speed);
 #endif /* HAL_MOTORDR_HDR_MDR_INTERFACE_H_ */
+
