@@ -2,14 +2,9 @@
  * ULtra_Program.c
  *
  *  Created on: Aug 4, 2025
- *      Author: toham
- */
-/*
- * ULTRA_Program.c
- *
- *  Created on: Aug 4, 2025
  *      Author: tohami
  */
+
 
 #include "../../../Lib/BitMath.h"
 #include "../../../Lib/Definition.h"
