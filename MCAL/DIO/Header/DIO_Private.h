@@ -2,7 +2,7 @@
  * DIO_Private.h
  *
  *  Created on: Jul 17, 2025
- *      Author: toham
+ *      Author: tohami
  */
 
 #ifndef MCAL_DIO_HEADER_DIO_PRIVATE_H_
@@ -41,3 +41,4 @@
 
 
 #endif /* MCAL_DIO_HEADER_DIO_PRIVATE_H_ */
+
